@@ -6,10 +6,13 @@ body {
   height: 100%;
 }
 
-body {
-  background: #4870f57a;
+#mujer{
+  background: lightpink;
 }
 
+#hombre{
+  background: #4870f57a;
+}
 #cake {
   display: block;
   position: relative;
